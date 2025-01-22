@@ -31,10 +31,11 @@ The function returns the number of the last remaining player.
 ---
 
 ## How to Run
-'''bash
-git clone https://github.com/amarairobi/one-potato-two-potato.git
+```bash
+git clone https://github.com/user/one-potato-two-potato.git
 cd one-potato-two-potato
 python potato_game.py
+
 
 
 
