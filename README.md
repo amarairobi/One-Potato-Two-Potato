@@ -2,6 +2,10 @@
 
 This project simulates a counting-out elimination game where players are eliminated in a circular fashion based on a step count. The game continues until only one player remains.
 
+## Requirements
+- Python 3.x
+- Tkinter
+
 ## How It Works
 -- Players are numbered from `0` to `n-1`.
 
